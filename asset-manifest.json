@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Bo-Fone/Ravenous.git/static/css/main.0c9b2d89.chunk.css",
-    "main.js": "/Bo-Fone/Ravenous.git/static/js/main.04c5c698.chunk.js",
-    "main.js.map": "/Bo-Fone/Ravenous.git/static/js/main.04c5c698.chunk.js.map",
-    "runtime-main.js": "/Bo-Fone/Ravenous.git/static/js/runtime-main.119b1405.js",
-    "runtime-main.js.map": "/Bo-Fone/Ravenous.git/static/js/runtime-main.119b1405.js.map",
-    "static/js/2.d63cc8e1.chunk.js": "/Bo-Fone/Ravenous.git/static/js/2.d63cc8e1.chunk.js",
-    "static/js/2.d63cc8e1.chunk.js.map": "/Bo-Fone/Ravenous.git/static/js/2.d63cc8e1.chunk.js.map",
-    "index.html": "/Bo-Fone/Ravenous.git/index.html",
-    "precache-manifest.d1a714d1000ee36133e7283abf5291cc.js": "/Bo-Fone/Ravenous.git/precache-manifest.d1a714d1000ee36133e7283abf5291cc.js",
-    "service-worker.js": "/Bo-Fone/Ravenous.git/service-worker.js",
-    "static/css/main.0c9b2d89.chunk.css.map": "/Bo-Fone/Ravenous.git/static/css/main.0c9b2d89.chunk.css.map",
-    "static/js/2.d63cc8e1.chunk.js.LICENSE": "/Bo-Fone/Ravenous.git/static/js/2.d63cc8e1.chunk.js.LICENSE",
-    "static/media/SearchBar.css": "/Bo-Fone/Ravenous.git/static/media/background_search_mobile.5d0905e6.jpg"
+    "main.css": "/Ravenous/static/css/main.23b3fa86.chunk.css",
+    "main.js": "/Ravenous/static/js/main.1a52dbb4.chunk.js",
+    "main.js.map": "/Ravenous/static/js/main.1a52dbb4.chunk.js.map",
+    "runtime-main.js": "/Ravenous/static/js/runtime-main.fb5f738d.js",
+    "runtime-main.js.map": "/Ravenous/static/js/runtime-main.fb5f738d.js.map",
+    "static/js/2.d63cc8e1.chunk.js": "/Ravenous/static/js/2.d63cc8e1.chunk.js",
+    "static/js/2.d63cc8e1.chunk.js.map": "/Ravenous/static/js/2.d63cc8e1.chunk.js.map",
+    "index.html": "/Ravenous/index.html",
+    "precache-manifest.dbbc68c70703eef9b83368b3782909ae.js": "/Ravenous/precache-manifest.dbbc68c70703eef9b83368b3782909ae.js",
+    "service-worker.js": "/Ravenous/service-worker.js",
+    "static/css/main.23b3fa86.chunk.css.map": "/Ravenous/static/css/main.23b3fa86.chunk.css.map",
+    "static/js/2.d63cc8e1.chunk.js.LICENSE": "/Ravenous/static/js/2.d63cc8e1.chunk.js.LICENSE",
+    "static/media/SearchBar.css": "/Ravenous/static/media/background_search_mobile.5d0905e6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.119b1405.js",
+    "static/js/runtime-main.fb5f738d.js",
     "static/js/2.d63cc8e1.chunk.js",
-    "static/css/main.0c9b2d89.chunk.css",
-    "static/js/main.04c5c698.chunk.js"
+    "static/css/main.23b3fa86.chunk.css",
+    "static/js/main.1a52dbb4.chunk.js"
   ]
 }
