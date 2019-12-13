@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Ravenous/static/css/main.23b3fa86.chunk.css",
-    "main.js": "/Ravenous/static/js/main.1a52dbb4.chunk.js",
-    "main.js.map": "/Ravenous/static/js/main.1a52dbb4.chunk.js.map",
+    "main.js": "/Ravenous/static/js/main.28d9b4c7.chunk.js",
+    "main.js.map": "/Ravenous/static/js/main.28d9b4c7.chunk.js.map",
     "runtime-main.js": "/Ravenous/static/js/runtime-main.fb5f738d.js",
     "runtime-main.js.map": "/Ravenous/static/js/runtime-main.fb5f738d.js.map",
     "static/js/2.d63cc8e1.chunk.js": "/Ravenous/static/js/2.d63cc8e1.chunk.js",
     "static/js/2.d63cc8e1.chunk.js.map": "/Ravenous/static/js/2.d63cc8e1.chunk.js.map",
     "index.html": "/Ravenous/index.html",
-    "precache-manifest.dbbc68c70703eef9b83368b3782909ae.js": "/Ravenous/precache-manifest.dbbc68c70703eef9b83368b3782909ae.js",
+    "precache-manifest.0cfd71d6bf46718e472aec117a037352.js": "/Ravenous/precache-manifest.0cfd71d6bf46718e472aec117a037352.js",
     "service-worker.js": "/Ravenous/service-worker.js",
     "static/css/main.23b3fa86.chunk.css.map": "/Ravenous/static/css/main.23b3fa86.chunk.css.map",
     "static/js/2.d63cc8e1.chunk.js.LICENSE": "/Ravenous/static/js/2.d63cc8e1.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fb5f738d.js",
     "static/js/2.d63cc8e1.chunk.js",
     "static/css/main.23b3fa86.chunk.css",
-    "static/js/main.1a52dbb4.chunk.js"
+    "static/js/main.28d9b4c7.chunk.js"
   ]
 }
